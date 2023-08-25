@@ -1,6 +1,59 @@
 <!DOCTYPE html>
-<html>
+<html lang = "en">
 
-<title>
-    <head> mi primer pagina web
-        
+<head>
+
+    <meta charset="UTF -8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="Viewport" content="width = divace width, initial-scale=1.0">
+    <title>mi primer pagina web</title>
+</head>
+
+<body>
+
+    <h1> mi primer pagina web</h1>
+    <hr>
+    <h2>Presentacion: Hola soy Salvador Garcia, estudiante de la TUP y odio programar. Naci el 21/12/2000  </h2>
+    <h2> Me gusta jugar y estar tranquilo</h2>
+    <h2>Paginas Favoritas: </h2>
+    <section>
+        <h2>
+            Unas de las paginas que siempre uso:
+            <p> Lista desordenada:</p>
+            <ul>
+                <li>YouTube</li>
+                <li>star+</li>
+                <li>AmazonVideo</li>
+            </ul>
+
+            <p>Lista ordenada:</p>
+            <ol>
+                <li>YouTube</li>
+                <li>star+</li>
+                <li>AmazonVideo</li>
+            </ol>
+
+            <p> Enlases de las paginas: </p>
+            <ul>
+                <li> <a href="https://www.youtube.com/" target="_blank"> ir al link de YouTube</a></li>
+                <li> <a href="https://www.starplus.com/es-419/home" target="_blank"> Ir al link de Star+ </a></li>
+                <li> <a href="https://www.primevideo.com/region/na/storefront/ref=atv_hm_Suspense_c_9zZ8D2_hm_hom" target="_blank"> Ir al link de AmazonVideo</a> </li>
+            </ul>
+        </h2>
+
+        <h1>Galeria de imagenes</h1>
+        <h2>Algunas fotitos
+            <p>Aquí hay algunas imágenes relacionadas con la naturaleza:</p>
+            <img src="https://i0.wp.com/www.ntv.com.mx/wp-content/uploads/2019/11/golden-cachorro-e1549967733842-1024x650.jpg?fit=1024%2C650&ssl=1" alt="Perrito" title="Perrito">
+            <img src="https://www.petdarling.com/wp-content/uploads/2021/01/cachorros.jpg" alt="Pug" title="Pub Mordiendo un palito">
+            <img src="https://uploads-ssl.webflow.com/63634f4a7b868a399577cf37/63e10adfa64a34de9592b9a3_nombres%20para%20perritos%20blancos.jpg" alt="Perro blanco" title="Samoyedo">
+        </h2>
+    <section>
+
+
+
+
+</body>
+
+</html>
+
